@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gumbo v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-04 06:36:30+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:20
+#@ gumbo
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: 404.php:24
+#@ gumbo
+msgid "It looks like nothing was found at this location. Maybe try search or one of the links below?"
+msgstr "Ничего не найдено. Воспользуйтесь поиском."
+
+#: 404.php:34
+#@ gumbo
+msgid "Most Used Categories"
+msgstr "Популярные рубрики"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+#@ gumbo
+msgid "Try looking in the monthly archives."
+msgstr "Архив за месяц"
+
+#: archive.php:24
+#, php-format
+#@ gumbo
+msgid "Category Archives: %s"
+msgstr "Рубрики: %s"
+
+#: archive.php:27
+#, php-format
+#@ gumbo
+msgid "Tag Archives: %s"
+msgstr "Метки: %s"
+
+#: archive.php:34
+#, php-format
+#@ gumbo
+msgid "Author Archives: %s"
+msgstr "Автор: %s"
+
+#: archive.php:42
+#, php-format
+#@ gumbo
+msgid "Daily Archives: %s"
+msgstr "День: %s"
+
+#: archive.php:45
+#, php-format
+#@ gumbo
+msgid "Monthly Archives: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:48
+#, php-format
+#@ gumbo
+msgid "Yearly Archives: %s"
+msgstr "Год: %s"
+
+#: archive.php:51
+#@ gumbo
+msgid "Asides"
+msgstr "Формат"
+
+#: archive.php:54
+#@ gumbo
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:57
+#@ gumbo
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:60
+#@ gumbo
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:63
+#@ gumbo
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:66
+#@ gumbo
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:33
+#, php-format
+#@ gumbo
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:40
+#: comments.php:60
+#@ gumbo
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:41
+#: comments.php:61
+#@ gumbo
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:42
+#: comments.php:62
+#@ gumbo
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:72
+#@ gumbo
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:86
+#@ gumbo
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:87
+#@ gumbo
+msgid "Footer Menu"
+msgstr "Футер"
+
+#: functions.php:88
+#@ gumbo
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: functions.php:221
+#@ gumbo
+msgid "Primary Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:222
+#@ gumbo
+msgid "Main widget area, used throughout your site."
+msgstr "Область виджетов"
+
+#: functions.php:230
+#@ gumbo
+msgid "Footer"
+msgstr "Футер"
+
+#: functions.php:232
+#@ gumbo
+msgid "This widget area is located in site footer."
+msgstr "Область виджетов в футере"
+
+#: functions.php:239
+#@ gumbo
+msgid "Below Header"
+msgstr "Под шапкой"
+
+#: functions.php:240
+#@ gumbo
+msgid "This widget area is located below site header."
+msgstr "Область виджетов под шапкой"
+
+#: functions.php:248
+#@ gumbo
+msgid "Above Footer"
+msgstr "Над шапкой"
+
+#: functions.php:249
+#@ gumbo
+msgid "This widget area is located above site footer."
+msgstr "Область виджетов над шапкой"
+
+#: functions.php:257
+#@ gumbo
+msgid "Post Aside"
+msgstr "Формат записи"
+
+#: functions.php:258
+#@ gumbo
+msgid "Appears next to post content in posts with standard post format."
+msgstr "Стандартный пост"
+
+#: functions.php:266
+#@ gumbo
+msgid "Widgetized Template"
+msgstr "Шаблоны виджетов"
+
+#: functions.php:267
+#@ gumbo
+msgid "This widget area is used in Widgetized Page Template"
+msgstr "Область шаблонов виджетов"
+
+#: header.php:68
+#@ gumbo
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:69
+#@ gumbo
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: image.php:28
+#, php-format
+#@ gumbo
+msgid "<span class=\"post-time entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span><br /> <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "<span class=\"post-time entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span><br /> <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> - <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:39
+#: image.php:112
+#: inc/template-tags.php:111
+#: inc/template-tags.php:132
+#: inc/template-tags.php:184
+#: inc/template-tags.php:201
+#: page-templates/template-authors.php:59
+#: page-templates/template-masonry.php:33
+#: page-templates/template-sitemap.php:113
+#: page-templates/template-widgetized.php:50
+#: partials/content-page.php:35
+#@ gumbo
+msgid "Edit"
+msgstr "Изменить"
+
+#: image.php:43
+#@ gumbo
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+#: image.php:44
+#@ gumbo
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Вперед <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:98
+#: page-templates/template-authors.php:30
+#: page-templates/template-masonry.php:31
+#: page-templates/template-sitemap.php:27
+#: page-templates/template-widgetized.php:48
+#: partials/content-link.php:28
+#: partials/content-page.php:33
+#: partials/content-single.php:45
+#: partials/content.php:39
+#@ gumbo
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: image.php:104
+#, php-format
+#@ gumbo
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Комментировать</a> или оставить трекбек: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:106
+#, php-format
+#@ gumbo
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Комментарии закрыты, но вы можете оставить трекбек:: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:108
+#@ gumbo
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Трекбеки отключены, но вы можете <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">оставить комментарий</a>."
+
+#: image.php:110
+#@ gumbo
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Комментарии и трекбеки отключены."
+
+#: inc/customizer.php:170
+#@ gumbo
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:194
+#@ gumbo
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer.php:207
+#@ gumbo
+msgid "Header Background Color"
+msgstr "Цвет фона шапки"
+
+#: inc/customizer.php:227
+#@ gumbo
+msgid "Logo"
+msgstr "Лого"
+
+#: inc/customizer.php:248
+#@ gumbo
+msgid "Enable navigation below posts"
+msgstr "Включить навигацию под записями"
+
+#: inc/customizer.php:260
+#: inc/meta-boxes.php:28
+#@ gumbo
+msgid "Layout"
+msgstr "Структура"
+
+#: inc/customizer.php:261
+#@ gumbo
+msgid "Set default page layout"
+msgstr "Стуктура по умолчанию"
+
+#: inc/customizer.php:273
+#@ gumbo
+msgid "Default page layout"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:277
+#: inc/meta-boxes.php:35
+#@ gumbo
+msgid "Right sidebar"
+msgstr "Сайдбар справа"
+
+#: inc/customizer.php:281
+#: inc/meta-boxes.php:39
+#@ gumbo
+msgid "Left sidebar"
+msgstr "Сайдбар слева"
+
+#: inc/customizer.php:285
+#: inc/meta-boxes.php:43
+#@ gumbo
+msgid "No sidebar"
+msgstr "Без сайдбара"
+
+#: inc/customizer.php:300
+#@ gumbo
+msgid "Header layout"
+msgstr "Структура шапки"
+
+#: inc/customizer.php:304
+#@ gumbo
+msgid "Navigation below title and tagline"
+msgstr "Навигация под заголовком"
+
+#: inc/customizer.php:308
+#@ gumbo
+msgid "Navigation next to title and tagline"
+msgstr "Навигация после заголовка"
+
+#: inc/customizer.php:312
+#@ gumbo
+msgid "Center aligned"
+msgstr "По центру"
+
+#: inc/customizer.php:326
+#@ gumbo
+msgid "Featured Content"
+msgstr "Прикрепленный контент"
+
+#: inc/customizer.php:327
+#@ gumbo
+msgid "Set featured content for your site"
+msgstr "Использовать прикрепленный контент"
+
+#: inc/customizer.php:339
+#@ gumbo
+msgid "Display featured posts in homepage"
+msgstr "Показывать прикрепленный контент на главной"
+
+#: inc/customizer.php:352
+#@ gumbo
+msgid "Enter a tag to use for featured content"
+msgstr "Метки прикрепленного контента"
+
+#: inc/customizer.php:365
+#@ gumbo
+msgid "Number of featured posts"
+msgstr "Кол-во записей"
+
+#: inc/customizer.php:378
+#@ gumbo
+msgid "Featured content width"
+msgstr "Ширина прикрепленного контента"
+
+#: inc/customizer.php:382
+#@ gumbo
+msgid "Full width"
+msgstr "На всю ширину"
+
+#: inc/customizer.php:385
+#@ gumbo
+msgid "Content width"
+msgstr "Ширина контента"
+
+#: inc/customizer.php:398
+#@ gumbo
+msgid "Typography"
+msgstr "Шрифты"
+
+#: inc/customizer.php:399
+#@ gumbo
+msgid "Select fonts and their options"
+msgstr "Настройки шрифтов"
+
+#: inc/customizer.php:411
+#: inc/meta-boxes.php:61
+#@ gumbo
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: inc/customizer.php:435
+#@ gumbo
+msgid "Body font"
+msgstr "Шрифт контента"
+
+#: inc/customizer.php:449
+#@ gumbo
+msgid "Heading font"
+msgstr "Шрифт в шапке"
+
+#: inc/customizer.php:463
+#@ gumbo
+msgid "Make headings bold"
+msgstr "Жирные заголовки"
+
+#: inc/customizer.php:476
+#@ gumbo
+msgid "Make headings uppercase"
+msgstr "Загоовки заглавными"
+
+#: inc/extras.php:276
+#, php-format
+#@ gumbo
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/extras.php:290
+#@ gumbo
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "Запаролено."
+
+#: inc/extras.php:290
+#@ gumbo
+msgid "Password"
+msgstr "Пароль"
+
+#: inc/extras.php:290
+#@ default
+msgid "Submit"
+msgstr ""
+
+#: inc/hooks.php:61
+#@ gumbo
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: inc/hooks.php:61
+#, php-format
+#@ gumbo
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/hooks.php:63
+#, php-format
+#@ gumbo
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_ajax.php:47
+#@ gumbo
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_ajax.php:131
+#@ gumbo
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+#@ gumbo
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_field.php:459
+#@ gumbo
+msgid "Add Group"
+msgstr "Добавить группу"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_field.php:460
+#@ gumbo
+msgid "Remove Group"
+msgstr "Удалить группу"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:250
+#@ gumbo
+msgid "Add Row"
+msgstr "Добавить строку"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:306
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:706
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:768
+#@ gumbo
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:601
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:635
+#@ gumbo
+msgid "No terms"
+msgstr "Не выбрано"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:674
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:728
+#@ gumbo
+msgid "Add or Upload File"
+msgstr "Загрузить файл"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:695
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:760
+#@ gumbo
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:706
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:768
+#@ gumbo
+msgid "File:"
+msgstr "Файл:"
+
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:706
+#: inc/libraries/cmb/helpers/cmb_Meta_Box_types.php:768
+#@ gumbo
+msgid "Download"
+msgstr "Скачать"
+
+#: inc/libraries/cmb/init.php:257
+#@ gumbo
+msgid "Clear"
+msgstr "Очистить"
+
+#: inc/libraries/cmb/init.php:258
+#@ gumbo
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/libraries/cmb/init.php:259
+#@ gumbo
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+#: inc/libraries/cmb/init.php:260
+#@ gumbo
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: inc/libraries/cmb/init.php:283
+#@ gumbo
+msgid "Select / Deselect All"
+msgstr "Выбрать/Снять все"
+
+#: inc/libraries/cmb/init.php:1172
+#@ gumbo
+msgid "Save"
+msgstr "Сохранить"
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:196
+#: inc/tgm.php:71
+#@ tgmpa
+#@ gumbo
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:197
+#: inc/tgm.php:72
+#@ tgmpa
+#@ gumbo
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:198
+#: inc/tgm.php:73
+#, php-format
+#@ tgmpa
+#@ gumbo
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:200
+#: inc/tgm.php:75
+#, php-format
+#@ gumbo
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:201
+#: inc/tgm.php:76
+#, php-format
+#@ gumbo
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:202
+#: inc/tgm.php:77
+#, php-format
+#@ gumbo
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:203
+#: inc/tgm.php:78
+#, php-format
+#@ gumbo
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:204
+#: inc/tgm.php:79
+#, php-format
+#@ gumbo
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:205
+#: inc/tgm.php:80
+#, php-format
+#@ gumbo
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:206
+#: inc/tgm.php:81
+#, php-format
+#@ gumbo
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:207
+#: inc/tgm.php:82
+#, php-format
+#@ gumbo
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:208
+#: inc/tgm.php:83
+#@ gumbo
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:209
+#@ gumbo
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:210
+#: inc/tgm.php:85
+#@ tgmpa
+#@ gumbo
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:212
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: inc/tgm.php:86
+#@ tgmpa
+#@ gumbo
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:214
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:215
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:544
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2168
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1188
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1190
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1290
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1508
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1616
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1638
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:213
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1934
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1936
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2064
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2065
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2065
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2066
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/libraries/tgm-plugin-activation/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/meta-boxes.php:49
+#@ gumbo
+msgid "Do not show header for this post"
+msgstr "Не показывать шапку в этой записи"
+
+#: inc/meta-boxes.php:50
+#@ gumbo
+msgid "If checked, header will not be displayed"
+msgstr "Отметьте и шапка не будет показана в этой записи"
+
+#: inc/meta-boxes.php:55
+#@ gumbo
+msgid "Do not show footer for this post"
+msgstr "Не отображать футер к этой записи"
+
+#: inc/meta-boxes.php:56
+#@ gumbo
+msgid "If checked, footer will not be displayed"
+msgstr "Отметьте и футер не будет отображаться к этой записи"
+
+#: inc/meta-boxes.php:62
+#@ gumbo
+msgid "If set, this option will override font size set in Theme Customizer"
+msgstr "Размер шрифтов"
+
+#: inc/meta-boxes.php:68
+#@ gumbo
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/meta-boxes.php:72
+#@ gumbo
+msgid "Medium"
+msgstr "Средний"
+
+#: inc/meta-boxes.php:76
+#@ gumbo
+msgid "Large"
+msgstr "Большой"
+
+#: inc/meta-boxes.php:86
+#@ gumbo
+msgid "Default sidebar"
+msgstr "Сайдбар по умолчанию"
+
+#: inc/meta-boxes.php:104
+#@ gumbo
+msgid "Widget Area"
+msgstr "Область виджетов"
+
+#: inc/meta-boxes.php:105
+#@ gumbo
+msgid "Select a widget area to display in the sidebar."
+msgstr "Выберите область виджетов в сайдбаре"
+
+#: inc/meta-boxes.php:115
+#@ gumbo
+msgid "Layout Options"
+msgstr "Настройки структуры"
+
+#: inc/meta-boxes.php:126
+#@ gumbo
+msgid "Authors Page Settings"
+msgstr "Настройки страницы автора"
+
+#: inc/meta-boxes.php:137
+#@ gumbo
+msgid "Order authors by"
+msgstr "Сортировка авторов"
+
+#: inc/meta-boxes.php:143
+#@ gumbo
+msgid "Post count"
+msgstr "Кол-во записей"
+
+#: inc/meta-boxes.php:147
+#@ gumbo
+msgid "Name"
+msgstr "Имя"
+
+#: inc/meta-boxes.php:153
+#@ gumbo
+msgid "Order"
+msgstr "Порядок сортировки"
+
+#: inc/meta-boxes.php:159
+#@ gumbo
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: inc/meta-boxes.php:163
+#@ gumbo
+msgid "Descending"
+msgstr "По убыванию"
+
+#: inc/meta-boxes.php:174
+#@ gumbo
+msgid "Masonry Page Settings"
+msgstr "Настройки страницы"
+
+#: inc/meta-boxes.php:185
+#@ gumbo
+msgid "Posts per page"
+msgstr "Записей на страницу"
+
+#: inc/meta-boxes.php:186
+#@ gumbo
+msgid "Default number of posts per page (set in General > Reading) will be used if this is empty."
+msgstr "Число по умолчанию"
+
+#: inc/meta-boxes.php:191
+#: inc/meta-boxes.php:220
+#@ gumbo
+msgid "Hide page title"
+msgstr "Спрятать заголовок страницы"
+
+#: inc/meta-boxes.php:192
+#: inc/meta-boxes.php:221
+#@ gumbo
+msgid "Check if you'd like to hide this page's title"
+msgstr "Отметьте, чтобы спрятать заголовок"
+
+#: inc/meta-boxes.php:197
+#@ gumbo
+msgid "Excluded categories"
+msgstr "Исключенные категории"
+
+#: inc/meta-boxes.php:198
+#@ gumbo
+msgid "Select which categories to exclude"
+msgstr "Отметьте, чтобы исключить категории"
+
+#: inc/meta-boxes.php:209
+#@ gumbo
+msgid "Widgetized Page Settings"
+msgstr "Настройки старницы с виджетами"
+
+#: inc/meta-boxes.php:226
+#@ gumbo
+msgid "Text position"
+msgstr "Позиция текста"
+
+#: inc/meta-boxes.php:227
+#@ gumbo
+msgid "Relative to featured image, video or slider"
+msgstr "Прикрепленное изображение, видео или слайдер"
+
+#: inc/meta-boxes.php:232
+#@ gumbo
+msgid "Top"
+msgstr "Вверху"
+
+#: inc/meta-boxes.php:236
+#@ gumbo
+msgid "Right"
+msgstr "Справа"
+
+#: inc/meta-boxes.php:240
+#@ gumbo
+msgid "Bottom"
+msgstr "Внизу"
+
+#: inc/meta-boxes.php:244
+#@ gumbo
+msgid "Left"
+msgstr "Слева"
+
+#: inc/meta-boxes.php:251
+#@ gumbo
+msgid "Video URL"
+msgstr ""
+
+#: inc/meta-boxes.php:252
+#@ gumbo
+msgid "You can use video instead of Featured Image"
+msgstr ""
+
+#: inc/template-tags.php:51
+#: page-templates/template-masonry.php:61
+#@ gumbo
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:60
+#, php-format
+#@ gumbo
+msgid "Previous post: %1$s"
+msgstr "Предыдущая запись: %1$s"
+
+#: inc/template-tags.php:63
+#@ gumbo
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: inc/template-tags.php:69
+#, php-format
+#@ gumbo
+msgid "Next post: %1$s"
+msgstr "Следующая запись: %1$s"
+
+#: inc/template-tags.php:72
+#@ gumbo
+msgid "Next post"
+msgstr "Следующая запись"
+
+#: inc/template-tags.php:111
+#@ gumbo
+msgid "Pingback:"
+msgstr "Пингбек:"
+
+#: inc/template-tags.php:121
+#, php-format
+#@ gumbo
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">пишет:</span>"
+
+#: inc/template-tags.php:124
+#@ gumbo
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает проверки"
+
+#: inc/template-tags.php:130
+#, php-format
+#@ gumbo
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:156
+#: inc/template-tags.php:179
+#@ gumbo
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:162
+#, php-format
+#@ gumbo
+msgid "View all posts by %s"
+msgstr "Все записи автора: %s"
+
+#: inc/template-tags.php:165
+#: inc/template-tags.php:198
+#: partials/content-masonry.php:41
+#@ gumbo
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: inc/template-tags.php:165
+#: inc/template-tags.php:198
+#: partials/content-masonry.php:41
+#@ gumbo
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: inc/template-tags.php:165
+#: inc/template-tags.php:198
+#: partials/content-masonry.php:41
+#@ gumbo
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: inc/template-tags.php:230
+#@ gumbo
+msgid "Latest posts"
+msgstr "Последние записи"
+
+#: inc/template-tags.php:233
+#: partials/content-gallery.php:16
+#: partials/content-image.php:15
+#: partials/content.php:21
+#: partials/content.php:25
+#, php-format
+#@ gumbo
+msgid "Permalink to %s"
+msgstr "%s"
+
+#: inc/tgm.php:74
+#@ gumbo
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то не так с плагином API"
+
+#: inc/tgm.php:84
+#@ gumbo
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/tgm.php:87
+#, php-format
+#@ gumbo
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/widgets.php:94
+#@ gumbo
+msgid "Icon size:"
+msgstr "Размер иконки:"
+
+#: inc/widgets.php:96
+#@ gumbo
+msgid "No icon"
+msgstr "Без иконки"
+
+#: inc/widgets.php:97
+#@ gumbo
+msgid "64px"
+msgstr ""
+
+#: inc/widgets.php:98
+#@ gumbo
+msgid "96px"
+msgstr ""
+
+#: inc/widgets.php:99
+#@ gumbo
+msgid "128px"
+msgstr ""
+
+#: inc/widgets.php:100
+#@ gumbo
+msgid "256px"
+msgstr ""
+
+#: inc/widgets.php:103
+#@ gumbo
+msgid "Select an icon:"
+msgstr "Выбрать иконку:"
+
+#: inc/woocommerce/woocommerce.php:29
+#@ gumbo
+msgid "Store Sidebar"
+msgstr "Сайдбар магазина"
+
+#: inc/woocommerce/woocommerce.php:30
+#@ gumbo
+msgid "This widget area is used with WooCommerce store pages."
+msgstr "Только, если вы используете WooCommerce."
+
+#: no-results.php:14
+#@ gumbo
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:20
+#, php-format
+#@ gumbo
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Вперед</a>."
+
+#: no-results.php:24
+#@ gumbo
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено."
+
+#: no-results.php:29
+#@ gumbo
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Попробуйте воспользоваться поиском."
+
+#: page-templates/template-sitemap.php:31
+#@ gumbo
+msgid "Authors"
+msgstr "Авторы"
+
+#: page-templates/template-sitemap.php:44
+#@ gumbo
+msgid "Pages"
+msgstr "Страницы"
+
+#: page-templates/template-sitemap.php:59
+#@ gumbo
+msgid "Posts"
+msgstr "Записи"
+
+#: partials/content-gallery.php:16
+#@ gumbo
+msgid "images"
+msgstr "Изображения"
+
+#: partials/content-masonry.php:34
+#, php-format
+#@ gumbo
+msgid "%1$s ago"
+msgstr "%1$s назад"
+
+#: partials/content.php:38
+#@ gumbo
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: search.php:21
+#, php-format
+#@ gumbo
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:10
+#@ gumbo
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:11
+#@ gumbo
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+#: searchform.php:12
+#@ gumbo
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+

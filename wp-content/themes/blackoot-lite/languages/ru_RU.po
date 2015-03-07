@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blackoot Lite v10.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-21 18:28+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ blackoot
+#: 404.php:19
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+# @ blackoot
+#: 404.php:20 index.php:105 page-templates/full-width.php:56 page.php:56
+#: single.php:105
+msgid "What you are looking for isn't here..."
+msgstr "То, что вы ищете, не здесь..."
+
+# @ blackoot
+#: 404.php:21
+msgid "Maybe a search will help ?"
+msgstr "Возможно, поиск поможет?"
+
+# @ blackoot
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+# @ blackoot
+#: comments.php:23
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Один комментарий для %2$s"
+msgstr[1] "%1$s Комментариев для %2$s"
+
+# @ blackoot
+#: comments.php:34
+msgid "Older comments"
+msgstr "Старые комментарии"
+
+# @ blackoot
+#: comments.php:37
+msgid "Newer comments"
+msgstr "Новые комментарии"
+
+# @ blackoot
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ blackoot
+#: functions/icefit-options/icefit-options.php:26
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ blackoot
+#: functions/icefit-options/icefit-options.php:87
+msgid "Upload Image"
+msgstr "Загрузить Изображение"
+
+# @ blackoot
+#: functions/icefit-options/icefit-options.php:158
+#: functions/icefit-options/icefit-options.php:178
+#: functions/icefit-options/icefit-options.php:217
+msgid "You do not have permission to edit theme options."
+msgstr ""
+
+# @ blackoot
+#: functions/icefit-options/settings.php:16
+msgid "Blackoot Lite Settings"
+msgstr ""
+
+# @ blackoot
+#: functions/icefit-options/settings.php:97
+msgid "Responsive mode"
+msgstr ""
+
+# @ blackoot
+#: functions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ blackoot
+#: functions.php:119
+msgid "Default Sidebar"
+msgstr "Боковая колонка"
+
+# @ blackoot
+#: functions.php:127
+msgid "Footer"
+msgstr "Подвал"
+
+# @ blackoot
+#: functions.php:211
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ blackoot
+#: functions.php:285
+msgid "Next Post"
+msgstr "Вперед"
+
+# @ blackoot
+#: functions.php:291
+msgid "Previous Post"
+msgstr "Назад"
+
+# @ blackoot
+#: functions.php:352
+msgid "Home"
+msgstr "Главная"
+
+# @ blackoot
+#: functions.php:378
+msgid "Daily Archives"
+msgstr "День"
+
+# @ blackoot
+#: functions.php:379
+msgid "Monthly Archives"
+msgstr "Месяц"
+
+# @ blackoot
+#: functions.php:380
+msgid "Yearly Archives"
+msgstr "Год"
+
+# @ blackoot
+#: functions.php:381
+msgid "Author Archives"
+msgstr "Автор"
+
+# @ blackoot
+#: functions.php:382
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+# @ blackoot
+#: functions.php:383
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+# @ blackoot
+#: functions.php:384
+msgid "404 Error"
+msgstr "Ошибка 404"
+
+# @ blackoot
+#: index.php:50 single.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr "Просмотр всех записей %s"
+
+# @ blackoot
+#: index.php:55 single.php:40
+msgid "Category"
+msgstr "Категория "
+
+# @ blackoot
+#: index.php:66 single.php:49
+msgid "0 Comment"
+msgstr "0 Комментариев"
+
+# @ blackoot
+#: index.php:66 single.php:49
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ blackoot
+#: index.php:66 single.php:49
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ blackoot
+#: index.php:66 single.php:49
+msgid "Comments Off"
+msgstr "Комментарии выкл."
+
+# @ blackoot
+#: index.php:76 page-templates/full-width.php:41 page.php:41 single.php:59
+msgid "Edit"
+msgstr "Изменить"
+
+# @ blackoot
+#: index.php:97 index.php:104 page-templates/full-width.php:55 page.php:55
+#: single.php:104
+msgid "Not Found"
+msgstr "Не найдено"
+
+# @ blackoot
+#: index.php:98
+#, php-format
+msgid "Your search for \"%s\" did not return any result."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+# @ blackoot
+#: index.php:99
+msgid "Would you like to try another search ?"
+msgstr "Хотите воспользоваться поиском еще раз?"
+
+# @ blackoot
+#: index.php:114
+msgid "Previous Posts"
+msgstr "Назад"
+
+# @ blackoot
+#: index.php:117
+msgid "Next Posts"
+msgstr "Вперед"
+
+# @ blackoot
+#: page-templates/full-width.php:31 page.php:31 single.php:75
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ blackoot
+#: part-title.php:22
+msgid "404: Page Not Found"
+msgstr "Ошибка 404. Страница не найдена"
+
+# @ blackoot
+#: part-title.php:27
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "Результаты поиска:  \"%s\""
+
+# @ blackoot
+#: part-title.php:32
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+# @ blackoot
+#: part-title.php:37
+#, php-format
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+# @ blackoot
+#: part-title.php:42
+#, php-format
+msgid "Daily archives: %s"
+msgstr "День: %s"
+
+# @ blackoot
+#: part-title.php:46
+#, php-format
+msgid "Monthly archives: %s"
+msgstr "Месяц: %s"
+
+# @ blackoot
+#: part-title.php:50
+#, php-format
+msgid "Yearly archives: %s"
+msgstr "Год: %s"
+
+# @ blackoot
+#: sidebar.php:16
+msgid "Recent Posts"
+msgstr "Последнее"
+
+# @ blackoot
+#: sidebar.php:21
+msgid "Archives"
+msgstr "Архивы"
+
+# @ blackoot
+#: sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+# @ blackoot
+#: single.php:80
+msgid "Next page"
+msgstr "Следующая страница"
+
+# @ blackoot
+#: single.php:81
+msgid "Previous page"
+msgstr "Предыдущая страница"
